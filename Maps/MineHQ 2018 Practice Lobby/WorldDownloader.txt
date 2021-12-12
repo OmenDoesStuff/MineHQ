@@ -1,0 +1,4 @@
+#
+#Tue Mar 31 16:23:47 EDT 2020
+LinkedWorlds=
+ServerName=MineHQ
