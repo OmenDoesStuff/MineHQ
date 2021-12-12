@@ -1,0 +1,6 @@
+name: Redstone
+version: e43d3w
+main: net.frozenorb.redstone.Redstone
+author: MineHQ Development Team
+depend:
+  - qLib
