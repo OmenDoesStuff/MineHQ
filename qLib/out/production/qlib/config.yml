@@ -1,0 +1,29 @@
+hubmode: false
+
+server:
+  name: "Protocol"
+  displayname: "&a&lProtocol"
+  website: "protocol.rip"
+  store: "store.protocol.rip"
+  twitter: "ProtocolRIP"
+  teamspeak: "ts.protocol.rip"
+  discord: "protocol.rip/discord"
+  prefix: "&f"
+  #Chat Colours
+  primary: GREEN
+  secondary: WHITE
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  auth:
+    enabled: false
+    password: ''
+
+mongo:
+  host: 127.0.0.1
+  port: 6379
+  auth:
+    enabled: false
+    user: ''
+    password: ''
