@@ -1,5 +1,7 @@
 # MineHQ
+### For Educational Purposes Only!
 Anything MineHQ Related
+
 
 ## Includes
 - HCTeams
