@@ -1,4 +1,4 @@
-# MineHQ
+# MineHQ - No Idea If This Shit Real.
 ### For Educational Purposes Only!
 Anything MineHQ Related
 
