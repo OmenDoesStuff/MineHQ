@@ -1,0 +1,4 @@
+name: qSite-Java-Client
+version: ef324f
+main: net.frozenorb.qsite.QSite
+author: Protocol Development Team
